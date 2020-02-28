@@ -1,0 +1,5 @@
+spring:
+  rsocket:
+    server:
+      mapping-path: /counter
+      transport: websocket
